@@ -1,0 +1,19 @@
+{
+  "name": "com.google.unity-jar-resolver",
+  "version": "1.2.135",
+  "displayName": "Play Services Resolver for Unity",
+  "description": "This library is intended to be used by any Unity plugin that requires: Android specific libraries (e.g AARs), iOS CocoaPods and/or Version management of transitive dependencies.",
+  "unity": "2018.3",
+  "dependencies": {},
+  "keywords": [
+    "Google",
+    "Android",
+    "Cocoapods",
+    "Dependency"
+  ],
+  "author": {
+    "name": "Google Inc",
+    "email": "someone@google.com",
+    "url": "https://github.com/googlesamples/unity-jar-resolver"
+  }
+}
